@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**dkdryan/dkdryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is David Ryan!
+  
+Currently an Academic Foundation Doctor based at St George's Hospital London  
+My interests are in Biomedical Informatics, AI and Clinical Pharmacology  
 
-Here are some ideas to get you started:
+**Medicine:**   
+MBChB (Hons) University of Edinburgh 2019  
+B Med Sci (Pharmacology) University of Edinburgh 2016 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Science:**   
+I code in Python and R  
+Mendelian Randomisation Course, University of Cambridge November 2020  
+Part-time Data Science Course, General Assembly 2019 - 2020  
+Research placement at the Department for Biomedical Informatics, Columbia University, New York, May 2019 
+
+- 🔭 I’m currently working on integrating electronic health data, genetic data and retinal images to predict systemic disease 
+- 🌱 I’m currently learning about neural networks and Mendelian randomisation 
+- 💬 Ask me about biomedical informatics and clinical AI 
+- 📫 How to reach me: davidkdryan@gmail.com
+- 😄 Pronouns: He/Him
+
+
+
