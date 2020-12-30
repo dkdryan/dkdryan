@@ -20,6 +20,7 @@ Research placement at the Department for Biomedical Informatics, Columbia Univer
 - 💬 Ask me about biomedical informatics and clinical AI 
 - 📫 How to reach me: davidkdryan@gmail.com
 - 😄 Pronouns: He/Him
+- 📖 Blogging on: https://medium.com/@davidkdryan
 
 
 
