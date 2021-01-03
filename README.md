@@ -22,7 +22,8 @@ My interests are in Biomedical Informatics, AI and Clinical Pharmacology
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: davidkdryan@gmail.com
 - 📖 Blogging on: https://medium.com/@davidkdryan
-- 🐦 Tweeting @davidkdryan
+- 🐦 Tweeting @davidkdryan  
+- 🎶 Piano compositions https://soundcloud.com/dkdryan
 
 
 
