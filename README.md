@@ -12,7 +12,7 @@ Incoming Academic Clinical Fellow ST1 Clinical Pharmacology and Therapeutics at 
 - B Med Sci (Pharmacology) University of Edinburgh 2016 
 
 **Data Science:**   
-- I code in Python and R
+- I code in Python and R and have experience in AI models and cloud computing (particularly, google cloud platform). 
 - I supervise BSc Clinical Pharmacology Students at St George's University, London for their second year research projects. 
 - Mendelian Randomisation Course, University of Cambridge November 2020  
 - Part-time Data Science Course, General Assembly 2019 - 2020  
