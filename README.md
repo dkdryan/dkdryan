@@ -2,11 +2,9 @@
 
 My name is David Ryan!
   
-Currently an Academic Foundation Doctor based at St George's Hospital London. 
+I'm an ST1 Academic Clinical Fellow at University College Hospital London, specialising in Clinical Pharmacology and Therapeutics. 
 
-My interests are in AI, genomics and Clinical Pharmacology. 
-
-Incoming Academic Clinical Fellow ST1 Clinical Pharmacology and Therapeutics at University College London 
+My interests are in Biomedical Informatics, Genomics and Clinical Pharmacology. 
 
 **Medicine:**   
 - MBChB (Hons) University of Edinburgh 2019  
