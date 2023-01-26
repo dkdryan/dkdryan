@@ -2,7 +2,7 @@
 
 My name is David Ryan!
   
-I'm an ST1 Academic Clinical Fellow at University College Hospital London, specialising in Clinical Pharmacology and Therapeutics. 
+I'm an NIHR Academic Clinical Fellow and ST2 Doctor at University College Hospital London, specialising in Clinical Pharmacology and Therapeutics. 
 
 My interests are in Biomedical Informatics, Genomics and Clinical Pharmacology. 
 
@@ -11,15 +11,13 @@ My interests are in Biomedical Informatics, Genomics and Clinical Pharmacology.
 - B Med Sci (Pharmacology) University of Edinburgh 2016 
 
 **Data Science:**   
+- I am currently a MSc student in Medical Statistics at the London School of Hygiene and Tropical Medicine. 
 - I code in Python and R and have experience in AI models and cloud computing (particularly, google cloud platform). 
-- I supervise BSc Clinical Pharmacology Students at St George's University, London for their second year research projects. 
-- Mendelian Randomisation Course, University of Cambridge November 2020  
+- I teach on the 'Genetics in Drug Discovery Course' at the Universiyt of Cambridge. 
 - Part-time Data Science Course, General Assembly 2019 - 2020  
 - Research placement at the Department for Biomedical Informatics, Columbia University, New York, May 2019   
 
 **Vitals:**  
-- 🔭 I’m currently working on integrating electronic health data, genetic data and retinal images to predict systemic disease 
-- 💬 Ask me about biomedical informatics and clinical AI 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: davidkdryan@gmail.com
 - 📖 Blogging on: https://medium.com/@davidkdryan
