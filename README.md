@@ -13,7 +13,7 @@ My interests are in Biomedical Informatics, Genomics and Clinical Pharmacology.
 **Data Science:**   
 - I am currently a MSc student in Medical Statistics at the London School of Hygiene and Tropical Medicine. 
 - I code in Python and R and have experience in AI models and cloud computing (particularly, google cloud platform). 
-- I teach on the 'Genetics in Drug Discovery Course' at the Universiyt of Cambridge. 
+- I teach on the 'Genetics in Drug Discovery Course' at the University of Cambridge. 
 - Part-time Data Science Course, General Assembly 2019 - 2020  
 - Research placement at the Department for Biomedical Informatics, Columbia University, New York, May 2019   
 
