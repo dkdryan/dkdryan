@@ -2,7 +2,7 @@
 
 My name is David Ryan!
   
-I'm an NIHR Academic Clinical Fellow and ST2 Doctor at University College Hospital London, specialising in Clinical Pharmacology and Therapeutics. 
+I'm an NIHR Academic Clinical Fellow and ST3 Doctor at University College Hospital London, specialising in Clinical Pharmacology and Therapeutics. 
 
 My interests are in Biomedical Informatics, Genomics and Clinical Pharmacology. 
 
