@@ -2,16 +2,16 @@
 
 My name is David Ryan!
   
-I'm an NIHR Academic Clinical Fellow and ST3 Doctor at University College Hospital London, specialising in Clinical Pharmacology and Therapeutics. 
+I'm an NIHR Doctoral Fellow at UCL and ST4 Doctor at University College Hospital London, specialising in Clinical Pharmacology and Therapeutics. 
 
-My interests are in Biomedical Informatics, Genomics and Clinical Pharmacology. 
+My interests are in cardiometabolic diseases, pharmacovigilance, causal inference and machine learning. 
 
 **Medicine:**   
+- MSc student Medical Statistics at the London School of Hygiene and Tropical Medicine. 
 - MBChB (Hons) University of Edinburgh 2019  
 - B Med Sci (Pharmacology) University of Edinburgh 2016 
 
 **Data Science:**   
-- I am currently a MSc student in Medical Statistics at the London School of Hygiene and Tropical Medicine. 
 - I code in Python and R and have experience in AI models and cloud computing (particularly, google cloud platform). 
 - I teach on the 'Genetics in Drug Discovery Course' at the University of Cambridge. 
 - Part-time Data Science Course, General Assembly 2019 - 2020  
